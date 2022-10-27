@@ -1,0 +1,1 @@
+01	Phone [Phone Id: 01, Phone Name: iphone3, Supplier: Minh, Price: 150]

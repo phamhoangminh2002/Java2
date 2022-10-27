@@ -1,0 +1,5 @@
+M123	Mobile [Mobile Id: M123, Brand Name: Iphone, Unit Price: 100, QoH: 2, Total: 200]
+M234	Mobile [Mobile Id: M234, Brand Name: Iphone, Unit Price: 100, QoH: 200, Total: 20000]
+M123	Mobile [Mobile Id: M123, Brand Name: Samsung, Unit Price: 600, QoH: 0, Total: 0]
+M234	Mobile [ Id: M234, Brand Name: Samsung, Unit Price: 150, QoH: 3, Total: 450]
+M123	Mobile [ Id: M123, Brand Name: Iphone, Unit Price: 150, QoH: 5, Total: 750]

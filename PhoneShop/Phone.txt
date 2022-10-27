@@ -1,0 +1,5 @@
+01	Phone [Phone Id: 01, Phone Name: iphone3, Supplier: Minh, Price: 150]
+01	Phone [Phone Id: 01, Phone Name: iphone, Supplier: minh, Price: 15]
+02	Phone [Phone Id: 02, Phone Name: iphone3, Supplier: minh, Price: 160]
+01	Phone [Phone Id: 01, Phone Name: iphone, Supplier: minh, Price: 150]
+02	Phone [Phone Id: 02, Phone Name: samsung, Supplier: phongvu, Price: 10]
